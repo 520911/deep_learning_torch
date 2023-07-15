@@ -9,3 +9,7 @@
 7. LSTM GRU [link](https://github.com/520911/deep_learning_torch/blob/main/dll_7.ipynb)
 8. Attention Encoder Decoder [link](https://github.com/520911/deep_learning_torch/blob/main/dll_8.ipynb)
 9. SSD детекция BCCD dataset [link](https://github.com/520911/deep_learning_torch/blob/main/dll_9.ipynb)
+10. Сегментация UNet [link](https://github.com/520911/deep_learning_torch/blob/main/dll_10.ipynb)
+11. Word2Vec, torch текст классификация [link](https://github.com/520911/deep_learning_torch/blob/main/dll_11.ipynb)
+12. RoBerta transformer + KNN классификация [link](https://github.com/520911/deep_learning_torch/blob/main/dll_12.ipynb)
+13. GAN [link](https://github.com/520911/deep_learning_torch/blob/main/dll_13.ipynb)
